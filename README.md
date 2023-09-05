@@ -11,7 +11,7 @@ Users have access to records in PSQuery through the Query Access Manager.  Recor
 I’ve created a few PSQiueries and SQL statements to help clarify the current relationships between the Records, Roles and Users. Hopefully these can help you adjust security in your implementation so your PSQuery users have correct record access.
 
 
-### Web Posting: 
+### Web Posting: https://peopletoolstechtips.com/psquery-record-security/
 
 ### YouTube demo: https://youtu.be/4IWKzVH6ajk
 
