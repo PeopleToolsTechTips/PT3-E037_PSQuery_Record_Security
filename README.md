@@ -13,7 +13,7 @@ I’ve created a few PSQiueries and SQL statements to help clarify the current r
 
 ### Web Posting: 
 
-### YouTube demo: 
+### YouTube demo: https://youtu.be/4IWKzVH6ajk
 
 ### Contact:  
 * randy@peopletoolstechtips.com  
