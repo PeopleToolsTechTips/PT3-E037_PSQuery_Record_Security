@@ -3,21 +3,21 @@
   <instance class="PJM">
     <rowset name="PjmDefn" size="2856" count="1">
       <row>
-        <szLastUpdDttm>2023-09-05-15.16.26.855505</szLastUpdDttm>
+        <szLastUpdDttm>2023-09-12-19.16.48.667077</szLastUpdDttm>
         <szLastUpdOprId>PT3</szLastUpdOprId>
         <szObjectOwnerID>PT3</szObjectOwnerID>
         <nUseCount>1</nUseCount>
         <bUseUpdate>1</bUseUpdate>
-        <lVersion>5788</lVersion>
+        <lVersion>5857</lVersion>
         <lSwapVersion>0</lSwapVersion>
         <nSwapNum>0</nSwapNum>
         <szProjectName>X_PT3_E037_QUERY_SECURITY</szProjectName>
         <szLanguageCd>ENG</szLanguageCd>
         <szProjectDescr>Query Security Record Queuries</szProjectDescr>
-        <szSrcDBName>HCMFFK</szSrcDBName>
+        <szSrcDBName>PSHRDM46</szSrcDBName>
         <szSrcOprId>PT3</szSrcOprId>
-        <szSessionId>421f7efb-4bff-11ee-be6f-45b181e871fb</szSessionId>
-        <szRunDtTm>2023-09-05-15.16.56.856130</szRunDtTm>
+        <szSessionId>01aa8efb-51a1-11ee-996a-cb2d91102bbf</szSessionId>
+        <szRunDtTm>2023-09-12-19.17.24.667203</szRunDtTm>
         <szTgtServerName></szTgtServerName>
         <szTgtDBName></szTgtDBName>
         <szTgtOprId></szTgtOprId>
@@ -511,13 +511,13 @@ PSQueries showing who can see what PSQuery records through roles, permission lis
   <instance class="RDM">
     <rowset name="RecDefn" size="920" count="1">
       <row>
-        <szLastUpdDttm>2023-09-04-15.06.32.616334</szLastUpdDttm>
+        <szLastUpdDttm>2023-09-03-18.11.22.212895</szLastUpdDttm>
         <szLastUpdOprId>PT3</szLastUpdOprId>
         <szObjectOwnerID>PT3</szObjectOwnerID>
         <nUseCount>1</nUseCount>
         <bUseUpdate>1</bUseUpdate>
-        <lVersion>90</lVersion>
-        <lSwapVersion>90</lSwapVersion>
+        <lVersion>99</lVersion>
+        <lSwapVersion>99</lSwapVersion>
         <nSwapNum>0</nSwapNum>
         <szRecName>X_PT3_QRYSEC_VW</szRecName>
         <szLanguageCd>ENG</szLanguageCd>
@@ -2376,11 +2376,11 @@ This view shows the Query Security path from Records through the Query Security 
   <instance class="QDM">
     <rowset name="QdmDefn" size="1040" count="1">
       <row>
-        <szLastUpdDttm>2023-09-04-15.06.33.616083</szLastUpdDttm>
+        <szLastUpdDttm>2023-09-03-21.29.10.600921</szLastUpdDttm>
         <szLastUpdOprId>PT3</szLastUpdOprId>
         <nUseCount>1</nUseCount>
         <bUseUpdate>1</bUseUpdate>
-        <lVersion>6</lVersion>
+        <lVersion>39</lVersion>
         <lSwapVersion>0</lSwapVersion>
         <nSwapNum>0</nSwapNum>
         <szOprId> </szOprId>
@@ -2672,7 +2672,7 @@ This view shows the Query Security path from Records through the Query Security 
           </rowset>
         </hQbt>
         <hQxt>HANDLE</hQxt>
-        <nDescrLongLen>262</nDescrLongLen>
+        <nDescrLongLen>254</nDescrLongLen>
         <nSelCount>1</nSelCount>
         <nExpCount>1</nExpCount>
         <nBndCount>1</nBndCount>
@@ -2680,7 +2680,7 @@ This view shows the Query Security path from Records through the Query Security 
         <eQryType>1</eQryType>
         <bQryValid>0</bQryValid>
         <hDescrLong> HANDLE
-          <rowset name="char" size="262" count="1">
+          <rowset name="char" size="254" count="1">
             <row>
               <hDescrLong>What records can a Permission List see
 
@@ -2708,11 +2708,11 @@ Contact: randy@peopletoolstechtips.com</hDescrLong>
   <instance class="QDM">
     <rowset name="QdmDefn" size="1040" count="1">
       <row>
-        <szLastUpdDttm>2023-09-04-15.06.33.616254</szLastUpdDttm>
+        <szLastUpdDttm>2023-09-03-21.28.07.600846</szLastUpdDttm>
         <szLastUpdOprId>PT3</szLastUpdOprId>
         <nUseCount>1</nUseCount>
         <bUseUpdate>1</bUseUpdate>
-        <lVersion>6</lVersion>
+        <lVersion>37</lVersion>
         <lSwapVersion>0</lSwapVersion>
         <nSwapNum>0</nSwapNum>
         <szOprId> </szOprId>
@@ -3031,7 +3031,7 @@ Contact: randy@peopletoolstechtips.com</hDescrLong>
           </rowset>
         </hQbt>
         <hQxt>HANDLE</hQxt>
-        <nDescrLongLen>306</nDescrLongLen>
+        <nDescrLongLen>298</nDescrLongLen>
         <nSelCount>1</nSelCount>
         <nExpCount>1</nExpCount>
         <nBndCount>1</nBndCount>
@@ -3039,7 +3039,7 @@ Contact: randy@peopletoolstechtips.com</hDescrLong>
         <eQryType>1</eQryType>
         <bQryValid>0</bQryValid>
         <hDescrLong> HANDLE
-          <rowset name="char" size="306" count="1">
+          <rowset name="char" size="298" count="1">
             <row>
               <hDescrLong>What permission lists can see a Query Record given a Record 
 
@@ -3067,11 +3067,11 @@ Contact: randy@peopletoolstechtips.com</hDescrLong>
   <instance class="QDM">
     <rowset name="QdmDefn" size="1040" count="1">
       <row>
-        <szLastUpdDttm>2023-09-04-15.06.33.616364</szLastUpdDttm>
+        <szLastUpdDttm>2023-09-03-21.36.10.600723</szLastUpdDttm>
         <szLastUpdOprId>PT3</szLastUpdOprId>
         <nUseCount>1</nUseCount>
         <bUseUpdate>1</bUseUpdate>
-        <lVersion>6</lVersion>
+        <lVersion>43</lVersion>
         <lSwapVersion>0</lSwapVersion>
         <nSwapNum>0</nSwapNum>
         <szOprId> </szOprId>
@@ -3471,7 +3471,7 @@ Contact: randy@peopletoolstechtips.com</hDescrLong>
           </rowset>
         </hQbt>
         <hQxt>HANDLE</hQxt>
-        <nDescrLongLen>296</nDescrLongLen>
+        <nDescrLongLen>288</nDescrLongLen>
         <nSelCount>1</nSelCount>
         <nExpCount>1</nExpCount>
         <nBndCount>1</nBndCount>
@@ -3479,7 +3479,7 @@ Contact: randy@peopletoolstechtips.com</hDescrLong>
         <eQryType>1</eQryType>
         <bQryValid>0</bQryValid>
         <hDescrLong> HANDLE
-          <rowset name="char" size="296" count="1">
+          <rowset name="char" size="288" count="1">
             <row>
               <hDescrLong>What roles can see a Query Record given a Record Prompt
 
@@ -3507,11 +3507,11 @@ Contact: randy@peopletoolstechtips.com</hDescrLong>
   <instance class="QDM">
     <rowset name="QdmDefn" size="1040" count="1">
       <row>
-        <szLastUpdDttm>2023-09-04-15.06.33.616465</szLastUpdDttm>
+        <szLastUpdDttm>2023-09-12-19.10.49.432792</szLastUpdDttm>
         <szLastUpdOprId>PT3</szLastUpdOprId>
         <nUseCount>1</nUseCount>
         <bUseUpdate>1</bUseUpdate>
-        <lVersion>6</lVersion>
+        <lVersion>49</lVersion>
         <lSwapVersion>0</lSwapVersion>
         <nSwapNum>0</nSwapNum>
         <szOprId> </szOprId>
@@ -3566,7 +3566,7 @@ Contact: randy@peopletoolstechtips.com</hDescrLong>
                     <nGroupByNum>0</nGroupByNum>
                     <nOrderByNum>0</nOrderByNum>
                     <nSubTtlNum>0</nSubTtlNum>
-                    <nUseCount>1</nUseCount>
+                    <nUseCount>0</nUseCount>
                     <nXlatFldNum>0</nXlatFldNum>
                     <nXlatExpNum>0</nXlatExpNum>
                     <nRecFieldNum>0</nRecFieldNum>
@@ -3620,7 +3620,7 @@ Contact: randy@peopletoolstechtips.com</hDescrLong>
                     <nGroupByNum>0</nGroupByNum>
                     <nOrderByNum>2</nOrderByNum>
                     <nSubTtlNum>0</nSubTtlNum>
-                    <nUseCount>0</nUseCount>
+                    <nUseCount>1</nUseCount>
                     <nXlatFldNum>0</nXlatFldNum>
                     <nXlatExpNum>0</nXlatExpNum>
                     <nRecFieldNum>0</nRecFieldNum>
@@ -3922,7 +3922,7 @@ Contact: randy@peopletoolstechtips.com</hDescrLong>
                     <nCrtNum>3</nCrtNum>
                     <nLParenLvl>0</nLParenLvl>
                     <nLCrtSelNum>1</nLCrtSelNum>
-                    <nLCrtFldNum>1</nLCrtFldNum>
+                    <nLCrtFldNum>3</nLCrtFldNum>
                     <nR1CrtSelNum>0</nR1CrtSelNum>
                     <nR1CrtFldNum>0</nR1CrtFldNum>
                     <nR1CrtExpNum>1</nR1CrtExpNum>
@@ -3973,17 +3973,17 @@ Contact: randy@peopletoolstechtips.com</hDescrLong>
           <rowset name="QdmBnd" size="816" count="1">
             <row>
               <nBndNum>1</nBndNum>
-              <szFieldName>OPRID</szFieldName>
+              <szFieldName>RECNAME</szFieldName>
               <szBndName>BIND1</szBndName>
-              <szHeading>User</szHeading>
-              <szEditTable>PSOPRDEFNVW</szEditTable>
+              <szHeading>Record</szHeading>
+              <szEditTable>PSRECDEFNPVW</szEditTable>
               <fUseEdit>16384</fUseEdit>
-              <nLength>30</nLength>
+              <nLength>15</nLength>
               <nDecimalPos>0</nDecimalPos>
               <nUseCount>1</nUseCount>
               <eFieldType>0</eFieldType>
               <eHdgType>3</eHdgType>
-              <eFormat>6</eFormat>
+              <eFormat>0</eFormat>
               <cQryReqPrompt>Y</cQryReqPrompt>
               <szBndDefault></szBndDefault>
               <nLangCount>0</nLangCount>
@@ -4024,11 +4024,11 @@ Contact: randy@peopletoolstechtips.com</hDescrLong>
   <instance class="QDM">
     <rowset name="QdmDefn" size="1040" count="1">
       <row>
-        <szLastUpdDttm>2023-09-04-15.06.33.616570</szLastUpdDttm>
+        <szLastUpdDttm>2023-09-03-21.54.23.402411</szLastUpdDttm>
         <szLastUpdOprId>PT3</szLastUpdOprId>
         <nUseCount>1</nUseCount>
         <bUseUpdate>1</bUseUpdate>
-        <lVersion>6</lVersion>
+        <lVersion>48</lVersion>
         <lSwapVersion>0</lSwapVersion>
         <nSwapNum>0</nSwapNum>
         <szOprId> </szOprId>
@@ -4509,7 +4509,7 @@ Contact: randy@peopletoolstechtips.com</hDescrLong>
           </rowset>
         </hQbt>
         <hQxt>HANDLE</hQxt>
-        <nDescrLongLen>280</nDescrLongLen>
+        <nDescrLongLen>272</nDescrLongLen>
         <nSelCount>1</nSelCount>
         <nExpCount>1</nExpCount>
         <nBndCount>1</nBndCount>
@@ -4517,7 +4517,7 @@ Contact: randy@peopletoolstechtips.com</hDescrLong>
         <eQryType>1</eQryType>
         <bQryValid>0</bQryValid>
         <hDescrLong> HANDLE
-          <rowset name="char" size="280" count="1">
+          <rowset name="char" size="272" count="1">
             <row>
               <hDescrLong>What records can a user see given a user prompt
 
@@ -4545,11 +4545,11 @@ Contact: randy@peopletoolstechtips.com</hDescrLong>
   <instance class="TDM">
     <rowset name="TdmDefn" size="1096" count="1">
       <row>
-        <szLastUpdDttm>2023-09-04-15.06.33.616957</szLastUpdDttm>
+        <szLastUpdDttm>2023-09-03-18.17.34.434174</szLastUpdDttm>
         <szLastUpdOprId>PT3</szLastUpdOprId>
         <nUseCount>1</nUseCount>
         <bUseUpdate>1</bUseUpdate>
-        <lVersion>1</lVersion>
+        <lVersion>3</lVersion>
         <lSwapVersion>0</lSwapVersion>
         <nSwapNum>0</nSwapNum>
         <szSetId></szSetId>
@@ -4684,12 +4684,12 @@ Contact: randy@peopletoolstechtips.com</hDescrLong>
   <instance class="SRM">
     <rowset name="SrmDefn" size="432" count="1">
       <row>
-        <szLastUpdDttm>2023-09-04-15.06.34.616495</szLastUpdDttm>
+        <szLastUpdDttm>2023-09-12-18.25.55.627531</szLastUpdDttm>
         <szLastUpdOprId>PT3</szLastUpdOprId>
         <szObjectOwnerId>PT3</szObjectOwnerId>
         <nUseCount>1</nUseCount>
         <bUseUpdate>1</bUseUpdate>
-        <lVersion>85</lVersion>
+        <lVersion>103</lVersion>
         <lSwapVersion>0</lSwapVersion>
         <nSwapNum>0</nSwapNum>
         <szSqlId>X_PT3_QRYSEC_VW</szSqlId>
@@ -4706,11 +4706,11 @@ Contact: randy@peopletoolstechtips.com</hDescrLong>
               <cDbType> </cDbType>
               <szEffDt>1900-01-01</szEffDt>
               <szDescr></szDescr>
-              <lSqlTextLen>2150</lSqlTextLen>
+              <lSqlTextLen>2330</lSqlTextLen>
               <lpszSqlText> POINTER
-                <rowset name="char" size="2150" count="1">
+                <rowset name="char" size="2330" count="1">
                   <row>
-                    <lpszSqlText>WITH TREE_NODE AS (   SELECT CONNECT_BY_ROOT P.TREE_NODE AS RECNAME   , P.TREE_NAME   , P.EFFDT   , P.TREE_NODE_TYPE   , P.SETID   , REVERSE(LTRIM(SYS_CONNECT_BY_PATH (REVERSE(P.TREE_NODE)   ,' &gt;- ')   ,' &gt;- ')) AS TREE_PATH   , P.TREE_NODE AS ACCESS_PATH   FROM PSTREENODE P CONNECT BY PRIOR P.PARENT_NODE_NUM = P.TREE_NODE_NUM   AND PRIOR P.TREE_NAME = P.TREE_NAME   AND PRIOR P.EFFDT = P.EFFDT   AND PRIOR P.SETCNTRLVALUE = P.SETCNTRLVALUE )   SELECT DISTINCT B.RECNAME   , RD.RECDESCR   , C.CLASSID   , C.TREE_NAME   , a.effdt   , C.ACCESS_GROUP   , C.ACCESSIBLE   , B.TREE_PATH   FROM PS_SCRTY_ACC_GRP C   , TREE_NODE B   , PSTREEDEFN A   , PSRECDEFN RD   WHERE C.TREE_NAME = B.TREE_NAME   AND C.ACCESS_GROUP = B.ACCESS_PATH   AND C.TREE_NAME = A.TREE_NAME   AND B.SETID = ' '   AND A.SETID = B.SETID   AND A.TREE_STRCT_ID = 'ACCESS_GROUP'   AND A.EFF_STATUS = 'A'   AND A.EFFDT = (   SELECT MAX(D.EFFDT)   FROM PSTREEDEFN D   WHERE D.SETID = ' '   AND D.TREE_NAME = A.TREE_NAME   AND D.EFFDT &lt;= %CurrentDateIn )   AND B.TREE_NODE_TYPE = 'G'   AND RD.RECNAME = B.RECNAME</lpszSqlText>
+                    <lpszSqlText> WITH TREE_NODE AS (   SELECT CONNECT_BY_ROOT P.TREE_NODE AS RECNAME   , P.TREE_NAME   , P.EFFDT   , P.TREE_NODE_TYPE   , P.SETID   , REVERSE(LTRIM(SYS_CONNECT_BY_PATH (REVERSE(P.TREE_NODE)   ,' &gt;- ')   ,' &gt;- ')) AS TREE_PATH   , P.TREE_NODE AS ACCESS_PATH   FROM PSTREENODE P   , PSTREEDEFN A   WHERE P.TREE_NODE_TYPE = 'G'   AND P.SETID = ' '   AND A.SETID = P.SETID   AND A.SETCNTRLVALUE = P.SETCNTRLVALUE   AND A.EFFDT = P.EFFDT   AND A.TREE_NAME = P.TREE_NAME   AND A.TREE_STRCT_ID = 'ACCESS_GROUP'   AND A.EFF_STATUS = 'A'   AND A.EFFDT = (   SELECT MAX(D.EFFDT)   FROM PSTREEDEFN D   WHERE D.SETID = ' '   AND D.TREE_NAME = A.TREE_NAME   AND D.EFFDT &lt;= SYSDATE ) CONNECT BY PRIOR P.PARENT_NODE_NUM = P.TREE_NODE_NUM   AND PRIOR P.TREE_NAME = P.TREE_NAME   AND PRIOR P.EFFDT = P.EFFDT   AND PRIOR P.SETID = P.SETID   AND PRIOR P.SETCNTRLVALUE = P.SETCNTRLVALUE )   SELECT DISTINCT B.RECNAME   , RD.RECDESCR   , C.CLASSID   , C.TREE_NAME   , B.EFFDT   , C.ACCESS_GROUP   , C.ACCESSIBLE   , B.TREE_PATH   FROM PS_SCRTY_ACC_GRP C   , TREE_NODE B   , PSRECDEFN RD   WHERE C.TREE_NAME = B.TREE_NAME   AND C.ACCESS_GROUP = B.ACCESS_PATH   AND RD.RECNAME = B.RECNAME</lpszSqlText>
                   </row>
                 </rowset>
               </lpszSqlText>
@@ -4729,11 +4729,11 @@ Contact: randy@peopletoolstechtips.com</hDescrLong>
   <instance class="CLM">
     <rowset name="ClmDefn" size="824" count="1">
       <row>
-        <szLastUpdDttm>2023-09-04-15.06.34.616876</szLastUpdDttm>
+        <szLastUpdDttm>2023-09-03-21.43.48.000000</szLastUpdDttm>
         <szLastUpdOprId>PT3</szLastUpdOprId>
         <nUseCount>1</nUseCount>
         <bUseUpdate>1</bUseUpdate>
-        <lVersion>34</lVersion>
+        <lVersion>38</lVersion>
         <lSwapVersion>0</lSwapVersion>
         <nSwapNum>0</nSwapNum>
         <szClassId>X_PT3</szClassId>
@@ -4741,7 +4741,7 @@ Contact: randy@peopletoolstechtips.com</hDescrLong>
         <szClassDefnDescr>PT3 Permission List</szClassDefnDescr>
         <nTimeOutMinutes>0</nTimeOutMinutes>
         <nAuthSignonCount>7</nAuthSignonCount>
-        <nAuthItemCount>0</nAuthItemCount>
+        <nAuthItemCount>32</nAuthItemCount>
         <nAuthPrcsCount>0</nAuthPrcsCount>
         <nPrcsProfile>1</nPrcsProfile>
         <nAuthCubeCount>0</nAuthCubeCount>
@@ -4790,7 +4790,266 @@ Contact: randy@peopletoolstechtips.com</hDescrLong>
             </row>
           </rowset>
         </hAst>
-        <hAit>HANDLE</hAit>
+        <hAit> HANDLE
+          <rowset name="ClmAuthItem" size="1280" count="32">
+            <row>
+              <atmMenuName>X_BI_PUB_MENU</atmMenuName>
+              <atmBarName>USE</atmBarName>
+              <atmBarItemName>X_APP_ENG_LAUNCH</atmBarItemName>
+              <atmPnlItemName>X_PB_XMLP_LAUNCH</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_FLUID_RESEARCH</atmMenuName>
+              <atmBarName>USE</atmBarName>
+              <atmBarItemName>X_FILE_LAYOUT_WRK</atmBarItemName>
+              <atmPnlItemName>X_FILE_LAYOUT_WRK</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_FLUID_RESEARCH</atmMenuName>
+              <atmBarName>USE</atmBarName>
+              <atmBarItemName>X_TWOPNL_PSL</atmBarItemName>
+              <atmPnlItemName>X_TWOPNL_PSL_PG1</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_IMAGE_MENU</atmMenuName>
+              <atmBarName>USE</atmBarName>
+              <atmBarItemName>DOS_MM_IMAGE</atmBarItemName>
+              <atmPnlItemName>X_PS_IMAGES</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_IMAGE_MENU</atmMenuName>
+              <atmBarName>USE</atmBarName>
+              <atmBarItemName>X_TRN_EQUIP_IMAGE</atmBarItemName>
+              <atmPnlItemName>X_TRN_EQUIP_PHOTOS</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_IMAGE_MENU</atmMenuName>
+              <atmBarName>USE</atmBarName>
+              <atmBarItemName>X_TRN_EQUIP_IMAGE</atmBarItemName>
+              <atmPnlItemName>X_TRN_EQ_PHOTO_DAT</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_LOGFILE_UTIL</atmMenuName>
+              <atmBarName>MENUITEM1</atmBarName>
+              <atmBarItemName>X_LOGFILE_UTIL</atmBarItemName>
+              <atmPnlItemName>X_LOGFILE_UTIL</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_PT3_E036_SRCH_REC_OVERRIDE</atmMenuName>
+              <atmBarName>USE</atmBarName>
+              <atmBarItemName>X_PT3_PERS_INFO</atmBarItemName>
+              <atmPnlItemName>X_PT3_PERS_INFO</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_PT3_IMAGES</atmMenuName>
+              <atmBarName>FLUID</atmBarName>
+              <atmBarItemName>X_PS_IMAGES_FL</atmBarItemName>
+              <atmPnlItemName>X_PS_IMAGES_FL</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_PT3_IMAGES</atmMenuName>
+              <atmBarName>FLUID</atmBarName>
+              <atmBarItemName>X_PT3_USR_IMG_FL</atmBarItemName>
+              <atmPnlItemName>X_PT3_USR_IMG_FL</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_PT3_IMAGES</atmMenuName>
+              <atmBarName>USE</atmBarName>
+              <atmBarItemName>X_DESIGN_TIME_IMG</atmBarItemName>
+              <atmPnlItemName>X_DESIGN_TIME_IMG</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_PT3_IMAGES</atmMenuName>
+              <atmBarName>USE</atmBarName>
+              <atmBarItemName>X_PS_IMAGES</atmBarItemName>
+              <atmPnlItemName>X_PS_IMAGES</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_PT3_IMAGES</atmMenuName>
+              <atmBarName>USE</atmBarName>
+              <atmBarItemName>X_PT3_IMAGE_FILE</atmBarItemName>
+              <atmPnlItemName>X_PT3_IMAGE_FILE</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>3</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_PT3_IMAGES</atmMenuName>
+              <atmBarName>USE</atmBarName>
+              <atmBarItemName>X_PT3_USER_IMAGE</atmBarItemName>
+              <atmPnlItemName>X_PT3_USER_IMAGE</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>3</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_PT3_MENU</atmMenuName>
+              <atmBarName>REPORT</atmBarName>
+              <atmBarItemName>X_PAYTX_RPT2</atmBarItemName>
+              <atmPnlItemName>X_PAYTX_RPT2</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_PT3_MENU</atmMenuName>
+              <atmBarName>REPORT</atmBarName>
+              <atmBarItemName>X_PDF_MERGE</atmBarItemName>
+              <atmPnlItemName>X_PDF_MERGE</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_PT3_MENU</atmMenuName>
+              <atmBarName>REPORT</atmBarName>
+              <atmBarItemName>X_PDF_WATERMARK</atmBarItemName>
+              <atmPnlItemName>X_PDF_WATERMARK</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_PT3_MENU</atmMenuName>
+              <atmBarName>REPORT</atmBarName>
+              <atmBarItemName>X_RUNCTNL_BIPUB</atmBarItemName>
+              <atmPnlItemName>X_RUNCNTL_BIPUB</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>3</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_PT3_MENU</atmMenuName>
+              <atmBarName>REPORT</atmBarName>
+              <atmBarItemName>X_TRN_LTR_SUBTEMPL</atmBarItemName>
+              <atmPnlItemName>X_TRN_LTR_SUBTEMPL</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_PT3_MENU</atmMenuName>
+              <atmBarName>RUN</atmBarName>
+              <atmBarItemName>X_PT3_BIPUB_TO_PM</atmBarItemName>
+              <atmPnlItemName>X_PT3_BIPUB_TO_PM</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>3</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_PT3_MENU</atmMenuName>
+              <atmBarName>RUN</atmBarName>
+              <atmBarItemName>X_PT3_TAXRPT_RCTL</atmBarItemName>
+              <atmPnlItemName>X_PT3_TAXRPT_RCTL</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>3</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_PT3_MENU</atmMenuName>
+              <atmBarName>USE</atmBarName>
+              <atmBarItemName>X_BIPUB_RTF_CHKBOX</atmBarItemName>
+              <atmPnlItemName>X_BIPUB_RTF_CHKBOX</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_PT3_MENU</atmMenuName>
+              <atmBarName>USE</atmBarName>
+              <atmBarItemName>X_PAYTAX_SUM</atmBarItemName>
+              <atmPnlItemName>X_PAYTAX_SUM</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_PT3_MENU</atmMenuName>
+              <atmBarName>USE</atmBarName>
+              <atmBarItemName>X_PT3_E033_EXPBIND</atmBarItemName>
+              <atmPnlItemName>X_PT3_E033_EXPBNDS</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_PT3_MENU</atmMenuName>
+              <atmBarName>USE</atmBarName>
+              <atmBarItemName>X_PT3_TEAM</atmBarItemName>
+              <atmPnlItemName>X_PT3_TEAM</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>X_PT3_MENU</atmMenuName>
+              <atmBarName>USE</atmBarName>
+              <atmBarItemName>X_XML_FILE_GEN</atmBarItemName>
+              <atmPnlItemName>X_XML_FILE_GEN</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>Z_ORG_CHART</atmMenuName>
+              <atmBarName>RUN</atmBarName>
+              <atmBarItemName>Z_RUNCNTL_ORCHT_D</atmBarItemName>
+              <atmPnlItemName>Z_RUNCNTL_ORGCHT_D</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>3</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>Z_ORG_CHART</atmMenuName>
+              <atmBarName>RUN</atmBarName>
+              <atmBarItemName>Z_RUNCNTL_ORGCHART</atmBarItemName>
+              <atmPnlItemName>Z_RUNCNTL_ORGCAHRT</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>3</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>Z_ORG_CHART</atmMenuName>
+              <atmBarName>USE</atmBarName>
+              <atmBarItemName>Z_ORGCHART_CFG</atmBarItemName>
+              <atmPnlItemName>Z_ORGCHART_CFG</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>11</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>Z_ORG_CHART</atmMenuName>
+              <atmBarName>USE</atmBarName>
+              <atmBarItemName>Z_ORGCHART_FL</atmBarItemName>
+              <atmPnlItemName>Z_ORGCHART_FL</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>Z_ORG_CHART</atmMenuName>
+              <atmBarName>USE</atmBarName>
+              <atmBarItemName>Z_ORGCHART_FL</atmBarItemName>
+              <atmPnlItemName>Z_ORGCHART_FTR</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+            <row>
+              <atmMenuName>Z_ORG_CHART</atmMenuName>
+              <atmBarName>USE</atmBarName>
+              <atmBarItemName>Z_ORGCHART_SEL_FL</atmBarItemName>
+              <atmPnlItemName>Z_ORGCHART_SEL_FL</atmPnlItemName>
+              <bDisplayOnly>0</bDisplayOnly>
+              <wAuthorizedActions>2</wAuthorizedActions>
+            </row>
+          </rowset>
+        </hAit>
         <hPgt>HANDLE</hPgt>
         <hAct>HANDLE</hAct>
         <hBct>HANDLE</hBct>
